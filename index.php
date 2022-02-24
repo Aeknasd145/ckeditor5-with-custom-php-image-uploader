@@ -1,0 +1,1 @@
+<?php header("Location:admin/add-new-post.php"); ?>
